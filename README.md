@@ -10,8 +10,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Js" height="30" width="30" src="https://user-images.githubusercontent.com/86934921/168933488-9ff6f03d-e5a2-4447-afbc-9f6415255fec.png">
-
+  
 </div>
   
   ## 
@@ -21,6 +20,5 @@
   <a href="https://www.linkedin.com/in/leonardo-amaral-177396194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
-  ![image]()
+
 
