@@ -1,5 +1,7 @@
 ## Hellooo, I'm Léo 👋
-After spending some time practicing different programming languages such as JavaScript, TypeScript, and C#, in 2024 I decided to focus on consolidating and refining my skills in Java in order to change my tech stack.
+In 2020, I began learning the fundamentals of programming (algorithms, logic, and OOP) using the Java language. In 2021, I achieved my long-awaited promotion to Delphi Desktop Programmer at Siscart Sistemas.
+
+Now, in 2024, I am more determined than ever to focus on consolidating and improving my skills in Java. My goal is to change my career path to work as a Java developer, particularly in the back-end area. This decision reflects not only my passion for the Java language but also my aspiration to pursue a career more aligned with my interests and professional goals.
 
 
 [![Linkedin: leonardo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoamaraldesenvolvedordelphi/)](https://www.linkedin.com/in/leonardoamaraldesenvolvedordelphi/)
