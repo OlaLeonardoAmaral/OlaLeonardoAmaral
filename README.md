@@ -14,7 +14,7 @@ Agora, em 2024, estou mais determinado do que nunca a direcionar meu foco para c
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=7&theme=dark"/> -->
 
 ## Tech Stacks & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,eclipse,vscode,mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,nodejs,typescript,react,mysql,mongodb,git)](https://skillicons.dev)
  
  
 </div>
