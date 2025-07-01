@@ -2,7 +2,7 @@
 
 # Leonardo Amaral
 
-<sub>Desenvolvedor de Produtos focado em Experiência do Usuário e Inovação com IA</sub>
+<sub>Product Developer focused on User Experience and AI-driven Innovation</sub>
 
 <br/>
 
@@ -14,18 +14,18 @@
 
 ---
 
-### <p align="center">🚀 Projetos Principais</p>
+### <p align="center">🚀 Featured Projects</p>
 
-| Projeto | Descrição | Status |
+| Project | Description | Status |
 |---|---|---|
-| **Walleto** | App web full-stack para controle financeiro pessoal. | ✅ **No ar** |
-| **Rhecruter** | Plataforma para otimizar processos de recrutamento. | ⏳ **Landing Page** |
-| **RepoGo** | Gerenciador de repositórios GitHub com automação via IA. | 🚧 **Em desenvolvimento** |
-| **PromptVault** | Banco de dados de prompts de IA para organizar fluxos de trabalho. | 🚧 **Em desenvolvimento** |
+| **Walleto** | Full-stack web app for personal finance management. | ✅ **Live** |
+| **Rhecruter** | A platform designed to streamline recruitment processes. | ⏳ **Landing Page** |
+| **RepoGo** | GitHub repository manager with AI-powered automation. | 🚧 **In Development** |
+| **PromptVault** | An AI prompt database to organize and manage workflows. | 🚧 **In Development** |
 
 ---
 
-### <p align="center">🛠️ Ecossistema Principal</p>
+### <p align="center">🛠️ Main Tech Stack</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardoamaraldev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 <div align="center">
