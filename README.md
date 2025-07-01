@@ -5,11 +5,6 @@
 <sub>Desenvolvedor de Produtos focado em Experiência do Usuário e Inovação com IA</sub>
 
 <br/>
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=OlaLeonardoAmaral&theme=dark)](https://git.io/streak-stats)
-
-<br/>
 
 <a href="https://github.com/OlaLeonardoAmaral">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="Top Languages" />
