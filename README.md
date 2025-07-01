@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,tailwind,java,spring,postgres,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,tailwind,java,spring,postgres,docker" />
   </a>
 </p>
 
@@ -42,5 +42,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=olaleonardoamaral&style=flat-square&color=6495ED" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=OlaLeonardoAmaral&style=flat-square&color=6495ED" alt="Visitors"/>
 </div>
