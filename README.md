@@ -6,8 +6,11 @@
 
 <br/>
 
+
 <a href="https://github.com/OlaLeonardoAmaral">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-stats-private-n7ca4383l.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dark&hide_border=true&private=true" alt="Top Languages" />
+
 </a>
 
 </div>
