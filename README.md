@@ -1,3 +1,54 @@
-Minha jornada na programação começou em 2020, quando me aprofundei nos fundamentos da programação, a minha primeira linguagem foi **Java**. Desde então, venho desenvolvendo cada vez mais minhas habilidades e mentalidade como um programador.
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,nodejs,typescript,react,sequelize,prisma,mysql,postgres,mongodb,docker)](https://skillicons.dev)
+# Leonardo Amaral
+
+<sub>Desenvolvedor de Produtos focado em Experiência do Usuário e Inovação com IA</sub>
+
+<br/>
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=OlaLeonardoAmaral&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
+
+
+<br/>
+
+<a href="https://github.com/OlaLeonardoAmaral">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+### <p align="center">🚀 Projetos Principais</p>
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| **Walleto** | App web full-stack para controle financeiro pessoal. | ✅ **No ar** |
+| **Rhecruter** | Plataforma para otimizar processos de recrutamento. | ⏳ **Landing Page** |
+| **RepoGo** | Gerenciador de repositórios GitHub com automação via IA. | 🚧 **Em desenvolvimento** |
+| **PromptVault** | Banco de dados de prompts de IA para organizar fluxos de trabalho. | 🚧 **Em desenvolvimento** |
+
+---
+
+### <p align="center">🛠️ Ecossistema Principal</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,tailwind,java,spring,postgres,docker,figma" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="URL_DO_SEU_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=olaleonardoamaral&style=flat-square&color=6495ED" alt="Visitors"/>
+</div>
