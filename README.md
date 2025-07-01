@@ -7,15 +7,12 @@
 <br/>
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=OlaLeonardoAmaral&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=OlaLeonardoAmaral&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
 <a href="https://github.com/OlaLeonardoAmaral">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
