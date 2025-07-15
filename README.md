@@ -19,14 +19,20 @@
 
 ---
 
+
 ### <p align="center">🚀 Featured Projects</p>
+
+<div align="center">
 
 | Project | Description | Status |
 |---|---|---|
-| **Walleto** | Full-stack web app for personal finance management. | ✅ **Live** |
-| **Rhecruter** | A platform designed to streamline recruitment processes. | ⏳ **Landing Page** |
+| [**Walleto**](https://walleto.com.br) | Full-stack web app for personal finance management. | ✅ **Live** |
+| [**Rhecruter**](https://rhecruter.com.br) | A platform designed to streamline recruitment processes. | ⏳ **Landing Page** |
 | **RepoGo** | GitHub repository manager with AI-powered automation. | 🚧 **In Development** |
 | **PromptVault** | An AI prompt database to organize and manage workflows. | 🚧 **In Development** |
+
+</div>
+
 
 ---
 
