@@ -4,20 +4,6 @@
 
 <sub>Product Developer focused on User Experience and AI-driven Innovation</sub>
 
-<br/>
-
-
-<a href="https://github.com/OlaLeonardoAmaral">
-
-  <img src="https://github-readme-stats-private-lyart.vercel.app/api/top-langs/?username=OlaLeonardoAmaral&layout=compact&langs_count=10&theme=dark&hide_border=true&private=true" alt="Top Languages" />
-
-  
-
-</a>
-
-</div>
-
----
 
 
 ### <p align="center">🚀 Featured Projects</p>
