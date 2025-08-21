@@ -1,12 +1,16 @@
 <div align="center">
 
-# Leonardo Amaral
+# Amaral
 
 <sub>Product Developer focused on User Experience and AI-driven Innovation</sub>
 
+## <h2 align="center">[**🎯 Board Game Rankings**](https://github.com/OlaLeonardoAmaral/ranking-api)</h2>
 
+<p align="center"><sub><i>Ever wished game nights could have their own digital scorekeeper? This REST API brings your board game battles to life, syncing scores across devices on your home Wi-Fi. It’s a private, offline-friendly way to keep the fun competitive and organized!</i></sub></p>
 
-### <p align="center">🚀 Featured Projects</p>
+---
+
+### <p align="center">🚀 Other Featured Projects</p>
 
 <div align="center">
 
@@ -18,7 +22,6 @@
 | **PromptVault** | An AI prompt database to organize and manage workflows. | 🚧 **In Development** |
 
 </div>
-
 
 ---
 
