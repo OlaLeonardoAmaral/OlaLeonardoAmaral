@@ -4,7 +4,7 @@
 
 <sub>Product Developer focused on User Experience and AI-driven Innovation</sub>
 
-## <h2 align="center">[**🎯 Board Game Ranking**](https://github.com/OlaLeonardoAmaral/ranking-api)</h2>
+## <h2 align="center">[**🎯 Board Game Ranking**](https://olaleonardoamaral.github.io/ranking-landing-page/)</h2>
 
 <p align="center"><sub><i>Ever wished game nights could have their own digital scorekeeper? This REST API brings your board game battles to life, syncing scores across devices on your home Wi-Fi. It’s a private, offline-friendly way to keep the fun competitive and organized!</i></sub></p>
 
