@@ -7,10 +7,10 @@
 <!-- 
 ## <h2 align="center">[**🎯 Board Game Ranking**](https://olaleonardoamaral.github.io/ranking-landing-page/)</h2>
 <p align="center"><sub><i>Ever wished game nights could have their own digital scorekeeper? This REST API brings your board game battles to life, syncing scores across devices on your home Wi-Fi. It’s a private, offline-friendly way to keep the fun competitive and organized!</i></sub></p>
--->
 ---
 
 ### <p align="center">🚀 Other Featured Projects</p>
+
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 </div>
 
 ---
-
+-->
 ### <p align="center">🛠️ Main Tech Stack</p>
 
 <p align="center">
