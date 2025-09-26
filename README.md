@@ -50,9 +50,10 @@
   <img src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=prisma" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sequelize" />
