@@ -2,7 +2,10 @@
 
 # Amaral
 
-<sub>Product Developer focused on User Experience and AI-driven Innovation</sub>
+<sub>
+Full-stack Product Developer focused on building real-world applications,
+with strong backend foundations, clean architecture and user-centered experiences.
+</sub>
 
 <!-- 
 ## <h2 align="center">[**🎯 Board Game Ranking**](https://olaleonardoamaral.github.io/ranking-landing-page/)</h2>
