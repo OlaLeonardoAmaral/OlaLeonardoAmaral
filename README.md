@@ -38,22 +38,16 @@ with strong backend foundations, clean architecture and user-centered experience
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=electron" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=electron" />&nbsp;&nbsp;&nbsp;  
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;&nbsp;
