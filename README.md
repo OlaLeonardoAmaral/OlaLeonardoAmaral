@@ -28,7 +28,7 @@ with strong backend foundations, clean architecture and user-centered experience
 
 ---
 -->
-### <p align="center">🛠️ Main Tech Stack</p>
+### <p align="center">Tech Stack</p>
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
