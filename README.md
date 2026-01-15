@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amaral
+# Léo
 
 <sub>
 Full-stack Product Developer focused on building real-world applications,
